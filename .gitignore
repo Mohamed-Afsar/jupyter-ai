@@ -1,5 +1,6 @@
 # Ignoring virtual environment setup
 venv
+.env
 
 # Mac
 .DS_Store
