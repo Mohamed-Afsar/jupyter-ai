@@ -29,9 +29,11 @@ distributed==2023.10.1
 executing==2.0.1
 faiss-cpu==1.7.4
 fastjsonschema==2.18.1
+filelock==3.13.1
 fqdn==1.5.1
 frozenlist==1.4.0
 fsspec==2023.10.0
+huggingface-hub==0.18.0
 idna==3.4
 importlib-metadata==6.8.0
 ipykernel==6.26.0
@@ -79,6 +81,7 @@ pandocfilters==1.5.0
 parso==0.8.3
 partd==1.4.1
 pexpect==4.8.0
+Pillow==10.1.0
 platformdirs==3.11.0
 ply==3.11
 prometheus-client==0.18.0
